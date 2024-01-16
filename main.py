@@ -89,8 +89,8 @@ def process_nairaland_urls(page, urls):
                         textarea.type(output_text)
                         print(f"No: {count} {output_text}")
 
-                        # Submit response 
-                        # page.query_selector('//input[@value="Submit"]').click()
+                        # Submit response
+                        page.query_selector('//input[@value="Submit"]').click()
                 except ValueError:
                     print(response.prompt_feedback)
         except Exception as e:
