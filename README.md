@@ -26,15 +26,17 @@ Follow these steps to set up and run the project.
     pip install -r requirements.txt
 
 ### Usage
-  Set up your Google API Key by following the [GEMINI API Key](https://ai.google.dev/tutorials/setup) Setup Guide.
-  Create a .env file in the project root and add your Google API Key:
-    ```bash
-  GOOGLE_API_KEY=your-api-key
-  
+   Set up your Google API Key by following the [GEMINI API Key](https://ai.google.dev/tutorials/setup) Setup Guide.
+   Create a .env file in the project root and add your Google API Key:
+   GOOGLE_API_KEY=your-api-key
 
 3. Run the script:
-    ```bash
-    python main.py
+   ```bash
+   python main.py
+
+Check out the bot's responses from here: https://www.nairaland.com/myai42545/posts
+### Disclaimer: 
+I only created the bot for the sole purpose of learning and experimentation, with no intent to cause any harm.  
 
     
 
