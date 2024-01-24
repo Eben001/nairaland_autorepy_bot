@@ -2,7 +2,7 @@
 
 **Nairaland Automation with Gemini AI**
 
-A script which automates interactions on Nairaland forum using Playwright. It generate responses using Google's Gemini AI and reply the original poster's comment.
+A script which automates interactions on [Nairaland forum](https://www.nairaland.com/) using Playwright. It generate responses using Google's Gemini AI and reply the original poster's comment.
 
 ## Getting Started
 
